@@ -1,5 +1,8 @@
 _repo: Principles-and-practices-of-agricultural-analysis_73302
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73302-h/images/cover.jpg
 creator:
   author:
     agent_name: Wiley, Harvey Washington
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53662
     wikipedia: https://en.wikipedia.org/wiki/Harvey_Washington_Wiley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73302#Principles-and-practices-of-agricultural-analysis
 gutenberg_issued: '2024-03-31'
 gutenberg_type: Text
 identifiers:
